@@ -8,8 +8,8 @@ and written in NodeJS
 `To run task-cli you need:`
 - Have nodeJS installed in your computer
 - Install this project via github
-    ```(git clone <this repo> 
-    cd task-cli)```
+    ```git clone <this repo>```
+    ```cd task-cli```
 - Then run the command `node task-cli.js`
 
 ## How to use it:
