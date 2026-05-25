@@ -25,3 +25,5 @@ To use and work with task-cli they are plenty of commands such as:
 - `node task-cli.js list done`
 - `node task-cli.js list todo`
 - `node task-cli.js list in-progress`
+
+Project idea from: https://roadmap.sh/projects/task-tracker
